@@ -1,0 +1,15 @@
+# Thư mục build của NetBeans (tự sinh lại khi Clean and Build)
+build/
+dist/
+nbproject/private/
+
+# Mật khẩu SQL Server - KHÔNG đưa lên GitHub. Xem src/java/db.properties.example
+src/java/db.properties
+
+# Bản sao lưu do Claude tạo khi sửa code
+_backup_*/
+
+# Tệp tạm của hệ điều hành / trình soạn thảo
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,5 @@
+# Sao chép file này thành db.properties (cùng thư mục) rồi điền thông tin SQL Server của bạn.
+# db.properties đã nằm trong .gitignore nên mật khẩu không bị đưa lên GitHub.
+url=jdbc:sqlserver://localhost:1433;databaseName=MathTutor;encrypt=true;trustServerCertificate=true
+user=sa
+password=MAT_KHAU_CUA_BAN
